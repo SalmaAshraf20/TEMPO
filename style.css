@@ -1,0 +1,69 @@
+body{
+  background-color: #EAFDFC !important;
+}
+*{
+  font-family: 'Open Sans', sans-serif;
+}
+.user_info{
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.fixed-nav-bottom{
+  background-color:#cfe2ff;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+.user-points{
+
+  padding-top: 20px;
+}
+
+input[type="number"] ,input[type="text"]{
+  padding: 5px;
+  border-top: 0;
+  border-bottom: 1px #000 solid;
+  background-color: #00000000;
+  border-right: 0;
+  border-left: 0;
+  border-radius: 5px;
+  font-size: 16px;
+  margin: 5px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 2px 2px;
+
+
+}
+.img-1{
+  width: 100px;
+  margin-bottom: 10px;
+
+
+}
+
+section {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 400px;
+  padding-top: 100px;
+  background: #3c31dd;
+}
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+.tab-content{
+  margin-bottom: 100px;
+  padding-top:20px;
+
+}
+.nav-link{
+  background-color: #D6E4E5 !important;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family:  'PT Sans', sans-serif;
+  font-size: 18px !important;
+}
